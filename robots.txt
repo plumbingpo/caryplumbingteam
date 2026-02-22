@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://caryplumbingteam.com/sitemap.xml
